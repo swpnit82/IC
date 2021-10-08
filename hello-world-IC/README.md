@@ -25,6 +25,7 @@ dfx config --help
 If you want to test your project locally, you can use the following commands:
 
 ```bash
+npm install # to install deps
 # Starts the replica, running in the background
 dfx start --background
 
